@@ -8,7 +8,7 @@ export default function Hero() {
         <img
           src={BottleHeroImage}
           alt="Botol Vesso — closeup produk"
-          className="w-full h-auto max-h-[650px] object-contain mx-auto"
+          className="w-full h-auto max-h-162.5 object-contain mx-auto"
           loading="eager"
         />
       </section>

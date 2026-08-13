@@ -13,7 +13,7 @@ interface Props {
     isLast?: boolean
 }
 
-export default function FeatureItem({ feature, index, isLast = false }: Props) {
+export default function FeatureItem({ feature, index }: Props) {
     return (
         <Card
             className={cn(
