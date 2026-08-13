@@ -52,7 +52,7 @@ export default function Footer() {
 
               <a
                 href="#"
-                className="px-3 py-1.5 text-xs font-medium transition-colors bg-[#1DA1F2] text-white hover:bg-[#166FE5] focus:bg-[#166FE5]"
+                className="px-3 py-1.5 text-xs font-medium transition-colors bg-[#1DA1F2] text-white hover:bg-[#166FE5] focus:bg-[#166FE5]1"
               >
                 Twitter
               </a>
